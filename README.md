@@ -19,9 +19,9 @@ extract ncnn-android-vulkan-lib.zip into app/src/main/jni or change the ncnn pat
 open this project with Android Studio, build it and enjoy!
 
 ## screenshot
-![](screenshot.png)
+![](https://github.com/yemuzi/ncnn-android-mobilenetssd/blob/master/screenshot.png)
 
 ### 物体检测.apk -> android摄像头视频流处理效果
-![](1.jpg)
-![](2.jpg)
+![](https://github.com/yemuzi/ncnn-android-mobilenetssd/blob/master/1.jpg)
+![](https://github.com/yemuzi/ncnn-android-mobilenetssd/blob/master/2.jpg)
 
